@@ -54,8 +54,8 @@
               <div class="code-content">
                 <pre><code><span class="keyword">const</span> <span class="variable">developer</span> = {
   <span class="property">name</span>: <span class="string">'Ali Mohammadabadi'</span>,
-  <span class="property">role</span>: <span class="string">'Frontend Developer'</span>,
-  <span class="property">skills</span>: [<span class="string">'Vue.js'</span>, <span class="string">'Nuxt.js'</span>, <span class="string">'React.js'</span>],
+  <span class="property">role</span>: <span class="string">'Fullstack Developer'</span>,
+  <span class="property">skills</span>: [<span class="string">'Vue.js'</span>, <span class="string">'Nuxt.js'</span>, <span class="string">'Laravel'</span>, <span class="string">'Python'</span>],
   <span class="property">experience</span>: <span class="number">+9</span> <span class="string">years</span>
 };</code></pre>
               </div>

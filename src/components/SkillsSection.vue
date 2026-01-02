@@ -55,6 +55,7 @@ const skillCategories = computed(() => [
       { name: 'TypeScript', level: 85 },
       { name: 'HTML/CSS', level: 95 },
       { name: 'Tailwind CSS', level: 90 },
+      { name: 'Laravel', level: 70 },
       { name: 'Python', level: 70 }
     ]
   },
