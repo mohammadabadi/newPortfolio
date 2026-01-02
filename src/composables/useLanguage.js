@@ -16,16 +16,16 @@ const translations = {
             greeting: 'سلام، من',
             name: 'علی محمدآبادی',
             title: 'هستم',
-            typing: ['توسعه‌دهنده Vue', 'توسعه‌دهنده Nuxt', 'توسعه‌دهنده React', 'توسعه‌دهنده فرانت‌اند'],
-            description: 'توسعه‌دهنده فرانت‌اند با بیش از ۹ سال تجربه در ساخت اپلیکیشن‌های وب مقیاس‌پذیر و پرکارایی با Vue.js ، Nuxt.js و React.js',
+            typing: ['توسعه‌دهنده Fullstack', 'توسعه‌دهنده Vue', 'توسعه‌دهنده Nuxt', 'توسعه‌دهنده Laravel'],
+            description: 'توسعه‌دهنده Fullstack با بیش از ۹ سال تجربه در ساخت اپلیکیشن‌های وب مقیاس‌پذیر و پرکارایی با Vue.js، Nuxt.js، React.js، Laravel و Python',
             contactBtn: 'تماس با من',
             moreBtn: 'بیشتر بدانید'
         },
         about: {
             title: 'درباره من',
-            description1: 'توسعه‌دهنده فرانت‌اند با بیش از',
+            description1: 'توسعه‌دهنده Fullstack با بیش از',
             description2: '۹ سال تجربه',
-            description3: 'در ساخت اپلیکیشن‌های وب مقیاس‌پذیر و پرکارایی با استفاده از Vue.js , Nuxt.js و React.js. توانایی اثبات‌شده در ارائه راه‌حل‌های کاربرمحور با تمرکز بر عملکرد، قابلیت نگهداری و همکاری بین تیمی.',
+            description3: 'در ساخت اپلیکیشن‌های وب مقیاس‌پذیر و پرکارایی با استفاده از Vue.js، Nuxt.js، React.js، Laravel و Python. توانایی اثبات‌شده در ارائه راه‌حل‌های کاربرمحور با تمرکز بر عملکرد، قابلیت نگهداری و همکاری بین تیمی.',
             description4: 'پیشینه قوی در متدولوژی‌های چابک، بهینه‌سازی UI/UX و تست خودکار. تجربه کار در پروژه‌های بزرگ و پیچیده با تمرکز بر کیفیت کد و بهترین شیوه‌های توسعه.',
             stats: {
                 years: 'سال تجربه',
@@ -54,7 +54,15 @@ const translations = {
                 eghamat1: 'همکاری با طراحان UX و تیم‌های بک‌اند برای پیاده‌سازی اپلیکیشن‌های وب پویا',
                 eghamat2: 'نگهداری سازگاری بین مرورگرها و بهینه‌سازی عملکرد',
                 greenweb1: 'ایجاد و نگهداری وب‌سایت‌های مشتری با تمرکز بر UI/UX',
-                greenweb2: 'ارائه رابط‌های قابل دسترسی و سازگار با موبایل'
+                greenweb2: 'ارائه رابط‌های قابل دسترسی و سازگار با موبایل',
+                momFreelance1: 'پیاده‌سازی پنل پیام‌رسان Mom با Vue.js و Laravel برای مدیریت پیام‌ها و ردیابی بین پروژه‌های داخلی',
+                fifacoin1: 'پیاده‌سازی طراحی جدید و بهبود عملکرد whatsgaming و fifacoin با Vue.js، Nuxt.js و Laravel',
+                fifacoin2: 'پیاده‌سازی mydgn.com با Vue.js و Laravel',
+                fifacoin3: 'پیاده‌سازی کارت‌های بازیکن و لندینگ sorare',
+                tandis1: 'توسعه رابط‌های وب ریسپانسیو و بهینه‌سازی عملکرد برای ترافیک بالا',
+                tandis2: 'اعمال فرآیندهای چابک برای بهبود کیفیت کد و کاهش چرخه توسعه',
+                vesta1: 'ساخت پلتفرم‌های وب پرکارایی برای پشتیبانی از ترافیک سنگین',
+                vesta2: 'انجام تست خودکار و اعمال بهترین شیوه‌ها برای استفاده مجدد از کد و ماژولاریتی'
             }
         },
         skills: {
@@ -100,16 +108,16 @@ const translations = {
             greeting: 'Hi, I\'m',
             name: 'Ali Mohammadabadi',
             title: '',
-            typing: ['Vue Developer', 'Nuxt Developer', 'React Developer', 'Frontend Developer'],
-            description: 'Frontend Developer with over 9 years of experience in building scalable, high-performance web applications using Vue.js , Nuxt.js and React.js',
+            typing: ['Fullstack Developer', 'Vue Developer', 'Nuxt Developer', 'Laravel Developer'],
+            description: 'Fullstack Developer with over 9 years of experience in building scalable, high-performance web applications using Vue.js, Nuxt.js, React.js, Laravel and Python',
             contactBtn: 'Contact Me',
             moreBtn: 'Learn More'
         },
         about: {
             title: 'About Me',
-            description1: 'Frontend Developer with over',
+            description1: 'Fullstack Developer with over',
             description2: '9 years of experience',
-            description3: 'in building scalable, high-performance web applications using Vue.js and Nuxt.js. Proven ability to deliver user-centric solutions with a focus on performance, maintainability, and cross-team collaboration.',
+            description3: 'in building scalable, high-performance web applications using Vue.js, Nuxt.js, React.js, Laravel and Python. Proven ability to deliver user-centric solutions with a focus on performance, maintainability, and cross-team collaboration.',
             description4: 'Strong background in agile methodologies, UI/UX optimization, and automated testing. Experience working on large and complex projects with a focus on code quality and best development practices.',
             stats: {
                 years: 'Years Experience',
@@ -138,7 +146,15 @@ const translations = {
                 eghamat1: 'Collaborated with UX designers and backend teams to implement dynamic web applications.',
                 eghamat2: 'Maintained cross-browser compatibility and performance optimization.',
                 greenweb1: 'Created and maintained client websites with a focus on UI/UX.',
-                greenweb2: 'Delivered accessible and mobile-friendly interfaces.'
+                greenweb2: 'Delivered accessible and mobile-friendly interfaces.',
+                momFreelance1: 'Implementing mom messenger panel with Vue.js and Laravel to manage messaging and tracking between internal projects.',
+                fifacoin1: 'Implementing new design and improving the performance of whatsgaming and fifacoin with Vue.js, Nuxt.js and Laravel.',
+                fifacoin2: 'Implementing mydgn.com with Vue.js and Laravel.',
+                fifacoin3: 'Implementing player cards and landing sorare.',
+                tandis1: 'Developed responsive web interfaces and optimized performance for high traffic.',
+                tandis2: 'Applied Agile workflows to enhance code quality and reduce development cycles.',
+                vesta1: 'Built high-performance web platforms designed to support heavy traffic.',
+                vesta2: 'Conducted automated testing and applied best practices for code reuse and modularity.'
             }
         },
         skills: {
@@ -197,3 +213,6 @@ export function useLanguage() {
         toggleLanguage
     }
 }
+
+
+

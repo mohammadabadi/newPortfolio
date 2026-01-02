@@ -66,6 +66,22 @@ const experiences = [
     taskKeys: ['abakari1', 'abakari2', 'abakari3', 'abakari4', 'abakari5', 'abakari6']
   },
   {
+    title: 'Fullstack Developer (Freelance)',
+    company: 'MOM.ir',
+    location: 'Tehran',
+    period: 'Freelance',
+    technologies: ['Vue.js', 'Laravel'],
+    taskKeys: ['momFreelance1']
+  },
+  {
+    title: 'Fullstack Developer (Freelance)',
+    company: 'fifacoin.com - whatsgaming.net - mydgn.com - sorare.com',
+    location: 'Remote',
+    period: 'Freelance',
+    technologies: ['Vue.js', 'Nuxt.js', 'Laravel'],
+    taskKeys: ['fifacoin1', 'fifacoin2', 'fifacoin3']
+  },
+  {
     title: 'Frontend Developer',
     company: 'ArzDigital.com',
     location: 'Tehran',
@@ -96,6 +112,22 @@ const experiences = [
     period: '2015 - 2017',
     technologies: ['Vue.js'],
     taskKeys: ['greenweb1', 'greenweb2']
+  },
+  {
+    title: 'Frontend Developer (Freelance)',
+    company: 'Tehran-Tandis',
+    location: 'Tehran',
+    period: 'Freelance',
+    technologies: ['Vue.js'],
+    taskKeys: ['tandis1', 'tandis2']
+  },
+  {
+    title: 'Frontend Developer (Freelance)',
+    company: 'Vesta',
+    location: 'Mashhad',
+    period: 'Freelance',
+    technologies: ['Vue.js'],
+    taskKeys: ['vesta1', 'vesta2']
   }
 ]
 
